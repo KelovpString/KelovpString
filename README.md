@@ -8,6 +8,6 @@
 
 ### Wirte Note in here 📃
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=KelovpString&repo=book-res)](https://github-readme-stats.vercel.app/api/pin/?username=KelovpString&repo=book-res)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=KelovpString&repo=book-res)](https://github.com/KelovpString/book-res)
 
 
